@@ -2,7 +2,20 @@
 
 Minimal Expo application using Babylon.js Lite and react-native-webgpu to load a GLB file.
 
-## Setup
+## Run this app
+
+```bash
+git clone https://github.com/laurentdiazfr/babylon-lite-react-native-webgpu
+cd babylon-lite-react-native-webgpu
+npm install
+npx expo prebuild
+npx expo run:android   # or: npx expo run:ios
+```
+### Expected Output
+
+<img src="screenshot-android.png" alt="Android" width="280" />
+
+## Create the same setup
 
 ```bash
 npx create-expo-app@latest --template blank-typescript
@@ -33,6 +46,3 @@ npx expo prebuild
 npx expo run:android   # or: npx expo run:ios
 ```
 
-### Expected Output
-
-<img src="screenshot-android.png" alt="Android" width="280" />
