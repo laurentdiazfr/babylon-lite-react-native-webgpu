@@ -1,5 +1,7 @@
 # Expo + React Native WebGPU + Babylon Lite
 
+Minimal Expo application using Babylon.js Lite and react-native-webgpu to load a GLB file.
+
 ## Setup
 
 ```bash
