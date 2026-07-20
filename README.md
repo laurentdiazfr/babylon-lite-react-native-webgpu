@@ -30,3 +30,7 @@ Then prebuild and run:
 npx expo prebuild
 npx expo run:android   # or: npx expo run:ios
 ```
+
+### Expected Output
+
+![Android](screenshot-android.png)
