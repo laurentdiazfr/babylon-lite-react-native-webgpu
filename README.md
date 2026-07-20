@@ -33,4 +33,4 @@ npx expo run:android   # or: npx expo run:ios
 
 ### Expected Output
 
-![Android](screenshot-android.png)
+<img src="screenshot-android.png" alt="Android" width="280" />
